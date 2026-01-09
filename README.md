@@ -7,8 +7,8 @@ Refactored from the original HTML/CSS/JS version into a **component-based React*
 
 ## Live Demo
 
-- GitHub Pages: (add link)
-- Vercel: (add link)
+You can try the project online here: 
+- [Vercel live demo](https://sport-center-react-ten.vercel.app)
 
 > Replace the placeholders above with your deployment URLs.
 
